@@ -231,6 +231,12 @@ img {
   margin-right: 30px;
 }
 
+.benefits-icon {
+  padding: 25px 100px;
+  margin-bottom: 30px;
+  border-radius: 4px;
+  background-color: var(--secondary-background-color);
+}
 .benefits-item-title {
   margin-bottom: 10px;
   font-size: 14px;
