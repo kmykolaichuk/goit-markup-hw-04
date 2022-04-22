@@ -336,10 +336,6 @@ img {
   background-color: var(--accent-color);
 }
 
-.team-social-icon {
-  fill: currentColor;
-}
-
 /* ---------------------CLIENTS--------------------- */
 
 .clients .title {
@@ -369,10 +365,6 @@ img {
 .clients-link:focus {
   fill: var(--accent-color);
   border: 1px solid var(--accent-color);
-}
-
-.clients-icon {
-  fill: inherit;
 }
 
 /* ---------------------FOOTER--------------------- */
@@ -442,9 +434,6 @@ img {
   fill: var(--primary-white-color);
 }
 
-.footer-social-icon {
-  fill: currentColor;
-}
 /* ---------------------PORTFOLIO--------------------- */
 
 .portfolio-list {
