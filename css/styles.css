@@ -176,8 +176,8 @@ img {
   max-width: 1600px;
   padding-top: 200px;
   padding-bottom: 200px;
+  margin: 0 auto;
   background-color: var(--dark-background-color);
-
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url('../images/hero-bg-image.jpg');
   background-repeat: no-repeat;
